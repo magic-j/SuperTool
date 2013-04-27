@@ -1,0 +1,10 @@
+name: SuperTool
+main: com.magic_j.supertool.SuperTool
+version: 0.2.0.8
+
+commands:
+  animalcounter:
+    description: This is a trader directory command.
+    usage: /animalcounter [<regionname>]
+    permission: supertool
+    permission-message: You don't have <permission>
